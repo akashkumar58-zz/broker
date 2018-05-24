@@ -1,0 +1,1 @@
+Sample app written in Djnago for creating Cloudfoundry service broker for PostgreSQL.
