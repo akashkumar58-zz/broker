@@ -1,0 +1,6 @@
+---
+ applications:
+ - name: service-broker
+   memory: 1G
+   services:
+    - brokerPostgres
